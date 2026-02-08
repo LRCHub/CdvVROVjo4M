@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "いつか君が大人になった時に",
+  "base_artist": "This is LAST",
+  "createdAt": "2026-02-08T09:22:11.935589Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "いつか君が大人になった時に",
+      "artist": "This is LAST",
+      "has_synced": false,
+      "path": "select/01_いつか君が大人になった時に_This_is_LAST.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "いつか君が大人になった時に",
+      "artist": "This is LAST",
+      "has_synced": false,
+      "path": "select/pl_01_いつか君が大人になった時に_This_is_LAST.txt"
+    }
+  ]
+}
